@@ -42,9 +42,9 @@ Make Predictions and plot the graph with the Actual and Predicted values.
 
 
 ## PROGRAM :
-Developed By: **Virgil Jovita.A**
+Developed By: **Prasanth E**
 <br/>
-Register Number: **212221240062**
+Register Number: **212221233002**
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
