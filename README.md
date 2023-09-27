@@ -1,7 +1,4 @@
-### EX NO : 05
-### DATE  : 
-# Stock Price Prediction
-
+ # Stock Price Prediction
 ## AIM :
 
 To develop a Recurrent Neural Network model for stock price prediction.
